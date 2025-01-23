@@ -1,6 +1,7 @@
 # Task3
 
 Created with CodeSandbox
+
 Implement a search functionality in a React component using an API.
 Use any free API endpoint
 Create an input field where users can enter a search term.
